@@ -2,5 +2,6 @@
 Overall progress and notes from Udacity Front-End Nanodegree course.
 
 ##### Curriculum
+
 #### Web Foundations
 
