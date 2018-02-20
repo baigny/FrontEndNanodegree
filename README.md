@@ -3,6 +3,7 @@ Overall progress and notes from Udacity Front-End Nanodegree course.
 
 ## Core Curriculum
 
+
 ### Web Foundations
 1. Intro
 2. Intro
@@ -22,6 +23,7 @@ Overall progress and notes from Udacity Front-End Nanodegree course.
 16. Making Sites Responsive: Resume Site on Mobile
 17. Writing READMEs
 18. Project: Build a Portfolio Site
+
 
 ### Web Programming with JavaScript
 1. What is JavaScript?
@@ -49,6 +51,7 @@ Overall progress and notes from Udacity Front-End Nanodegree course.
 23. Perfomance
 24. Project: Memory Game
 
+
 ### Exploring JS - Objects, Tools and Testing
 1. Accessibility Overview
 2. Focus
@@ -74,6 +77,7 @@ Overall progress and notes from Udacity Front-End Nanodegree course.
 22. Writing Test Suites
 23. Project: Feed Reader Testing
 
+
 ### Front-End Applications
 1. Changing Expectations
 2. Refactoring with Separation of Concerns
@@ -89,6 +93,7 @@ Overall progress and notes from Udacity Front-End Nanodegree course.
 12. The Benefits of Offline First
 13. Introducing the Service Worker
 14. Project: Restaurant Reviews App-Stage 1
+
 
 ### Building with React
 1. Why React? 
