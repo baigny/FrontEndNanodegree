@@ -24,6 +24,8 @@ Overall progress and notes from Udacity Front-End Nanodegree course.
     - Calculating Device Pixel Ratio
     - Devices Independent Pixels / CSS Pixels
     - Changing ViewPort <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    - Setting max-width:100%; for img, video, div elements, so they will not overflow. 
+    - Setting min-width:48px; to button, link and other clickables, so to make sure everyone can click them.
 13. Building Up
 14. Common Responsive Pattern
 15. Optimizations
