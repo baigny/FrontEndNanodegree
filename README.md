@@ -20,6 +20,10 @@ Overall progress and notes from Udacity Front-End Nanodegree course.
     - Debugging via USB cable / remote debugging
     - Using Chrome Canary / Chrome Beta (android to desktop)
 12. Starting Small
+    - Device Pixel Ratio / Viewport on different devices
+    - Calculating Device Pixel Ratio
+    - Devices Independent Pixels / CSS Pixels
+    - Changing ViewPort <meta name="viewport" content="width=device-width, initial-scale=1.0">
 13. Building Up
 14. Common Responsive Pattern
 15. Optimizations
