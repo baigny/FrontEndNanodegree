@@ -16,6 +16,9 @@ Overall progress and notes from Udacity Front-End Nanodegree course.
 9. How to Write Code Faster
 10. Project: Animal Trading Cards
 11. Why Responsive?
+    - Testing websites on devices in emulation mode. 
+    - Debugging via USB cable / remote debugging
+    - Using Chrome Canary / Chrome Beta (android to desktop)
 12. Starting Small
 13. Building Up
 14. Common Responsive Pattern
