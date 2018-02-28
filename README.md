@@ -27,6 +27,10 @@ Overall progress and notes from Udacity Front-End Nanodegree course.
     - Setting max-width:100%; for img, video, div elements, so they will not overflow. 
     - Setting min-width:48px; to button, link and other clickables, so to make sure everyone can click them.
 13. Building Up
+    - Using media queries
+    - Picking break-points
+    - Intro to Flex-box
+    - Grids
 14. Common Responsive Pattern
 15. Optimizations
 16. Making Sites Responsive: Resume Site on Mobile
