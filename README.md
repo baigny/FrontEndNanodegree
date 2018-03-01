@@ -32,6 +32,7 @@ Overall progress and notes from Udacity Front-End Nanodegree course.
     - Intro to Flex-box
     - Grids
 14. Common Responsive Pattern
+    - Column drop pattern
 15. Optimizations
 16. Making Sites Responsive: Resume Site on Mobile
 17. Writing READMEs
