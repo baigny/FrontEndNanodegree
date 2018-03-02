@@ -33,6 +33,9 @@ Overall progress and notes from Udacity Front-End Nanodegree course.
     - Grids
 14. Common Responsive Pattern
     - Column drop pattern
+    - Mostly Fluid pattern
+    - Layout Shifter
+    - Of canvas
 15. Optimizations
 16. Making Sites Responsive: Resume Site on Mobile
 17. Writing READMEs
