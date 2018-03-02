@@ -37,6 +37,11 @@ Overall progress and notes from Udacity Front-End Nanodegree course.
     - Layout Shifter
     - Of canvas
 15. Optimizations
+    - Working with tables
+    - Tables on smaller devices
+    - Tables as block elements
+    - Using overflow-x:auto inside a parent div element
+    - Minor and Major Breakpoints
 16. Making Sites Responsive: Resume Site on Mobile
 17. Writing READMEs
 18. Project: Build a Portfolio Site
