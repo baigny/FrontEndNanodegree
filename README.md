@@ -5,9 +5,9 @@ Overall progress and notes from Udacity Front-End Nanodegree course.
 
 
 ### Web Foundations
-1. Intro
-2. Intro
-3. Intro
+1. Intro nr 1 
+2. Intro nr 2
+3. Intro nr 3
 4. HTML Syntax
 5. HTML Syntax Problem Set
 6. Exercise: Article to Mockup
