@@ -44,6 +44,7 @@ Overall progress and notes from Udacity Front-End Nanodegree course.
     - Minor and Major Breakpoints
 16. Making Sites Responsive: Resume Site on Mobile
 17. Writing READMEs
+    - How to write READMEs
 18. Project: Build a Portfolio Site
 
 
